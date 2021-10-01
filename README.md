@@ -1,5 +1,5 @@
 
-# README file of this project.
+# README file for project.
 
 ## Purpose
 The main purpose of this repository is so i may practice using git and github with out having to upload any bad code.
